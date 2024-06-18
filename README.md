@@ -22,26 +22,6 @@ This To-Do App is designed to help users manage their tasks efficiently. It is i
    - Users can download their tasks as a PDF file.
    - The PDF shows which tasks have been completed and which have not.
 
-## Technologies Used
-
-- **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
-  - React.js
-
-- **Backend:**
-  - Node.js
-  - Express.js
-
-- **Database:**
-  - MySQL
-
-- **Libraries:**
-  - axios
-  - jspdf
-  - react-bootstrap
-  - web-vitals
 
 ## Video
 
